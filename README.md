@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Daniela Moratto e este é meu GitHub...
 
-<img align="right" alt="Daniela-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/988985365975166998/988985455620001792/Design_sem_nome_1.gif">
+<img align="right" alt="Daniela-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/988985365975166998/1019599476425494610/Design_sem_nome.gif">
 </div>
 
 * 😊 Seja bem-vinde!
