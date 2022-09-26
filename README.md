@@ -16,8 +16,8 @@
 
 <div align="space-between"><br>
   <a href="https://github.com/danielamorattodev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielamorattodev&show_icons=true&theme=aura&hide=prs,issues,contribs=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielamorattodev&layout=compact&langs_count=7&theme=aura"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielamorattodev&show_icons=true&theme=dark&hide=prs,issues,contribs=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielamorattodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  
