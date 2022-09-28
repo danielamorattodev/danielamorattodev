@@ -4,10 +4,10 @@
 </div>
 
 * 😊 Seja bem-vinde!
-* 🕳️ Hoje estou em processo de transição de carreira para área Tech.
-* 🌱 Atualmente estudando para Back-end JAVA/Spring.
+* 🕳️ Hoje estou em processo de transição de carreira do marketing para área Tech.
+* 🌱 Atualmente estudando para Back-end com foco em JAVA/Spring.
 * 😼 Mãe do Ace e do Luffy - dois gatinhos fofos.
-* 🎧 Adoro música, animes, webcomis, filmes e séries.
+* 🎧 Adoro música, animes, webcomis, filmes, séries, coisas geeks.
 * ✨ Aqui você pode conferir um pouco sobre meu perfil técnico.
 * 📧 Contato no e-mail: danieladelmondes191@gmail.com
 
